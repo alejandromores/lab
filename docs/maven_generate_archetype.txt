@@ -1,0 +1,2 @@
+#comando para generar arquetipo
+mvn archetype:generate -DgroupId="com.lab" -DartifactId="laboratory" -DarchetypeArtifactId="maven-archetype-simple" -DinteractiveMode="false"
